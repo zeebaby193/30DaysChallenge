@@ -1,0 +1,14 @@
+C:\Users\ZAYNAB\OneDrive\Desktop\MGQS\Day3Datatypes\bin\Debug\net10.0\Day3Datatypes.exe
+C:\Users\ZAYNAB\OneDrive\Desktop\MGQS\Day3Datatypes\bin\Debug\net10.0\Day3Datatypes.deps.json
+C:\Users\ZAYNAB\OneDrive\Desktop\MGQS\Day3Datatypes\bin\Debug\net10.0\Day3Datatypes.runtimeconfig.json
+C:\Users\ZAYNAB\OneDrive\Desktop\MGQS\Day3Datatypes\bin\Debug\net10.0\Day3Datatypes.dll
+C:\Users\ZAYNAB\OneDrive\Desktop\MGQS\Day3Datatypes\bin\Debug\net10.0\Day3Datatypes.pdb
+C:\Users\ZAYNAB\OneDrive\Desktop\MGQS\Day3Datatypes\obj\Debug\net10.0\Day3Datatypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ZAYNAB\OneDrive\Desktop\MGQS\Day3Datatypes\obj\Debug\net10.0\Day3Datatypes.AssemblyInfoInputs.cache
+C:\Users\ZAYNAB\OneDrive\Desktop\MGQS\Day3Datatypes\obj\Debug\net10.0\Day3Datatypes.AssemblyInfo.cs
+C:\Users\ZAYNAB\OneDrive\Desktop\MGQS\Day3Datatypes\obj\Debug\net10.0\Day3Datatypes.csproj.CoreCompileInputs.cache
+C:\Users\ZAYNAB\OneDrive\Desktop\MGQS\Day3Datatypes\obj\Debug\net10.0\Day3Datatypes.dll
+C:\Users\ZAYNAB\OneDrive\Desktop\MGQS\Day3Datatypes\obj\Debug\net10.0\refint\Day3Datatypes.dll
+C:\Users\ZAYNAB\OneDrive\Desktop\MGQS\Day3Datatypes\obj\Debug\net10.0\Day3Datatypes.pdb
+C:\Users\ZAYNAB\OneDrive\Desktop\MGQS\Day3Datatypes\obj\Debug\net10.0\Day3Datatypes.genruntimeconfig.cache
+C:\Users\ZAYNAB\OneDrive\Desktop\MGQS\Day3Datatypes\obj\Debug\net10.0\ref\Day3Datatypes.dll

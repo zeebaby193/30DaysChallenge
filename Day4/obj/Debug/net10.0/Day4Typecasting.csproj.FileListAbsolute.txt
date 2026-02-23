@@ -1,0 +1,14 @@
+C:\Users\ZAYNAB\OneDrive\Desktop\MGQS\Day4Typecasting\bin\Debug\net10.0\Day4Typecasting.exe
+C:\Users\ZAYNAB\OneDrive\Desktop\MGQS\Day4Typecasting\bin\Debug\net10.0\Day4Typecasting.deps.json
+C:\Users\ZAYNAB\OneDrive\Desktop\MGQS\Day4Typecasting\bin\Debug\net10.0\Day4Typecasting.runtimeconfig.json
+C:\Users\ZAYNAB\OneDrive\Desktop\MGQS\Day4Typecasting\bin\Debug\net10.0\Day4Typecasting.dll
+C:\Users\ZAYNAB\OneDrive\Desktop\MGQS\Day4Typecasting\bin\Debug\net10.0\Day4Typecasting.pdb
+C:\Users\ZAYNAB\OneDrive\Desktop\MGQS\Day4Typecasting\obj\Debug\net10.0\Day4Typecasting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ZAYNAB\OneDrive\Desktop\MGQS\Day4Typecasting\obj\Debug\net10.0\Day4Typecasting.AssemblyInfoInputs.cache
+C:\Users\ZAYNAB\OneDrive\Desktop\MGQS\Day4Typecasting\obj\Debug\net10.0\Day4Typecasting.AssemblyInfo.cs
+C:\Users\ZAYNAB\OneDrive\Desktop\MGQS\Day4Typecasting\obj\Debug\net10.0\Day4Typecasting.csproj.CoreCompileInputs.cache
+C:\Users\ZAYNAB\OneDrive\Desktop\MGQS\Day4Typecasting\obj\Debug\net10.0\Day4Typecasting.dll
+C:\Users\ZAYNAB\OneDrive\Desktop\MGQS\Day4Typecasting\obj\Debug\net10.0\refint\Day4Typecasting.dll
+C:\Users\ZAYNAB\OneDrive\Desktop\MGQS\Day4Typecasting\obj\Debug\net10.0\Day4Typecasting.pdb
+C:\Users\ZAYNAB\OneDrive\Desktop\MGQS\Day4Typecasting\obj\Debug\net10.0\Day4Typecasting.genruntimeconfig.cache
+C:\Users\ZAYNAB\OneDrive\Desktop\MGQS\Day4Typecasting\obj\Debug\net10.0\ref\Day4Typecasting.dll
