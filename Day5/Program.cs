@@ -114,6 +114,41 @@ else
 }
 
 
+//FIZZBUZZ Challenge
+
+Console.Write("Input number (1-10): ");
+int N = int.Parse(Console.ReadLine()!);
+
+if (N > 10 || N < 1)
+{
+    Console.WriteLine("Error: Check the number option again");
+}
+else
+{
+    for (int i = 1; i <= N; i++)
+    {
+        if (i % 2 == 0 && i % 3 == 0)
+        {
+            Console.WriteLine("FIZZBUZZ");
+        }
+        else if (i % 2 == 0)
+        {
+            Console.WriteLine("FIZZ");
+        }
+        else if (i % 3 == 0)
+        {
+            Console.WriteLine("BUZZ");
+        }
+        else
+        {
+            Console.WriteLine(i);
+        }
+    }
+}
+
+
+
+
 
 
 
