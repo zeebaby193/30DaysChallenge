@@ -1,0 +1,15 @@
+C:\Users\ZAYNAB\OneDrive\Desktop\MGQS\30DaysChallenge\Day8\bin\Debug\net10.0\Day8.exe
+C:\Users\ZAYNAB\OneDrive\Desktop\MGQS\30DaysChallenge\Day8\bin\Debug\net10.0\Day8.deps.json
+C:\Users\ZAYNAB\OneDrive\Desktop\MGQS\30DaysChallenge\Day8\bin\Debug\net10.0\Day8.runtimeconfig.json
+C:\Users\ZAYNAB\OneDrive\Desktop\MGQS\30DaysChallenge\Day8\bin\Debug\net10.0\Day8.dll
+C:\Users\ZAYNAB\OneDrive\Desktop\MGQS\30DaysChallenge\Day8\bin\Debug\net10.0\Day8.pdb
+C:\Users\ZAYNAB\OneDrive\Desktop\MGQS\30DaysChallenge\Day8\obj\Debug\net10.0\Day8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ZAYNAB\OneDrive\Desktop\MGQS\30DaysChallenge\Day8\obj\Debug\net10.0\Day8.AssemblyInfoInputs.cache
+C:\Users\ZAYNAB\OneDrive\Desktop\MGQS\30DaysChallenge\Day8\obj\Debug\net10.0\Day8.AssemblyInfo.cs
+C:\Users\ZAYNAB\OneDrive\Desktop\MGQS\30DaysChallenge\Day8\obj\Debug\net10.0\Day8.csproj.CoreCompileInputs.cache
+C:\Users\ZAYNAB\OneDrive\Desktop\MGQS\30DaysChallenge\Day8\obj\Debug\net10.0\Day8.sourcelink.json
+C:\Users\ZAYNAB\OneDrive\Desktop\MGQS\30DaysChallenge\Day8\obj\Debug\net10.0\Day8.dll
+C:\Users\ZAYNAB\OneDrive\Desktop\MGQS\30DaysChallenge\Day8\obj\Debug\net10.0\refint\Day8.dll
+C:\Users\ZAYNAB\OneDrive\Desktop\MGQS\30DaysChallenge\Day8\obj\Debug\net10.0\Day8.pdb
+C:\Users\ZAYNAB\OneDrive\Desktop\MGQS\30DaysChallenge\Day8\obj\Debug\net10.0\Day8.genruntimeconfig.cache
+C:\Users\ZAYNAB\OneDrive\Desktop\MGQS\30DaysChallenge\Day8\obj\Debug\net10.0\ref\Day8.dll
