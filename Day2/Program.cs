@@ -29,11 +29,11 @@ Console.WriteLine($"My name is {name}, I am {age} years old, My favorite number 
 
 //display variables
 string name = "Enny";
-Console.WriteLine("Hello: " + name);
+Console.WriteLine($"Hello: {name}");
 
 string firstName = "Muhammad";
 string lastName = "Aisha";
-string fullName = firstName + lastName;
+string fullName = firstName + " " + lastName;
 Console.WriteLine(fullName);
 
 //variable declaration
