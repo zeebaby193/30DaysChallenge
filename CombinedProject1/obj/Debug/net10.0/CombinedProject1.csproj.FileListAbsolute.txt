@@ -1,0 +1,15 @@
+C:\Users\ZAYNAB\OneDrive\Desktop\MGQS\30DaysChallenge\CombinedProject1\bin\Debug\net10.0\CombinedProject1.exe
+C:\Users\ZAYNAB\OneDrive\Desktop\MGQS\30DaysChallenge\CombinedProject1\bin\Debug\net10.0\CombinedProject1.deps.json
+C:\Users\ZAYNAB\OneDrive\Desktop\MGQS\30DaysChallenge\CombinedProject1\bin\Debug\net10.0\CombinedProject1.runtimeconfig.json
+C:\Users\ZAYNAB\OneDrive\Desktop\MGQS\30DaysChallenge\CombinedProject1\bin\Debug\net10.0\CombinedProject1.dll
+C:\Users\ZAYNAB\OneDrive\Desktop\MGQS\30DaysChallenge\CombinedProject1\bin\Debug\net10.0\CombinedProject1.pdb
+C:\Users\ZAYNAB\OneDrive\Desktop\MGQS\30DaysChallenge\CombinedProject1\obj\Debug\net10.0\CombinedProject1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ZAYNAB\OneDrive\Desktop\MGQS\30DaysChallenge\CombinedProject1\obj\Debug\net10.0\CombinedProject1.AssemblyInfoInputs.cache
+C:\Users\ZAYNAB\OneDrive\Desktop\MGQS\30DaysChallenge\CombinedProject1\obj\Debug\net10.0\CombinedProject1.AssemblyInfo.cs
+C:\Users\ZAYNAB\OneDrive\Desktop\MGQS\30DaysChallenge\CombinedProject1\obj\Debug\net10.0\CombinedProject1.csproj.CoreCompileInputs.cache
+C:\Users\ZAYNAB\OneDrive\Desktop\MGQS\30DaysChallenge\CombinedProject1\obj\Debug\net10.0\CombinedProject1.sourcelink.json
+C:\Users\ZAYNAB\OneDrive\Desktop\MGQS\30DaysChallenge\CombinedProject1\obj\Debug\net10.0\CombinedProject1.dll
+C:\Users\ZAYNAB\OneDrive\Desktop\MGQS\30DaysChallenge\CombinedProject1\obj\Debug\net10.0\refint\CombinedProject1.dll
+C:\Users\ZAYNAB\OneDrive\Desktop\MGQS\30DaysChallenge\CombinedProject1\obj\Debug\net10.0\CombinedProject1.pdb
+C:\Users\ZAYNAB\OneDrive\Desktop\MGQS\30DaysChallenge\CombinedProject1\obj\Debug\net10.0\CombinedProject1.genruntimeconfig.cache
+C:\Users\ZAYNAB\OneDrive\Desktop\MGQS\30DaysChallenge\CombinedProject1\obj\Debug\net10.0\ref\CombinedProject1.dll
