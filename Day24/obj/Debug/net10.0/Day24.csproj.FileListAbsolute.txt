@@ -1,0 +1,15 @@
+C:\Users\ZAYNAB\OneDrive\Desktop\MGQS\30DaysChallenge\Day24\bin\Debug\net10.0\Day24.exe
+C:\Users\ZAYNAB\OneDrive\Desktop\MGQS\30DaysChallenge\Day24\bin\Debug\net10.0\Day24.deps.json
+C:\Users\ZAYNAB\OneDrive\Desktop\MGQS\30DaysChallenge\Day24\bin\Debug\net10.0\Day24.runtimeconfig.json
+C:\Users\ZAYNAB\OneDrive\Desktop\MGQS\30DaysChallenge\Day24\bin\Debug\net10.0\Day24.dll
+C:\Users\ZAYNAB\OneDrive\Desktop\MGQS\30DaysChallenge\Day24\bin\Debug\net10.0\Day24.pdb
+C:\Users\ZAYNAB\OneDrive\Desktop\MGQS\30DaysChallenge\Day24\obj\Debug\net10.0\Day24.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ZAYNAB\OneDrive\Desktop\MGQS\30DaysChallenge\Day24\obj\Debug\net10.0\Day24.AssemblyInfoInputs.cache
+C:\Users\ZAYNAB\OneDrive\Desktop\MGQS\30DaysChallenge\Day24\obj\Debug\net10.0\Day24.AssemblyInfo.cs
+C:\Users\ZAYNAB\OneDrive\Desktop\MGQS\30DaysChallenge\Day24\obj\Debug\net10.0\Day24.csproj.CoreCompileInputs.cache
+C:\Users\ZAYNAB\OneDrive\Desktop\MGQS\30DaysChallenge\Day24\obj\Debug\net10.0\Day24.sourcelink.json
+C:\Users\ZAYNAB\OneDrive\Desktop\MGQS\30DaysChallenge\Day24\obj\Debug\net10.0\Day24.dll
+C:\Users\ZAYNAB\OneDrive\Desktop\MGQS\30DaysChallenge\Day24\obj\Debug\net10.0\refint\Day24.dll
+C:\Users\ZAYNAB\OneDrive\Desktop\MGQS\30DaysChallenge\Day24\obj\Debug\net10.0\Day24.pdb
+C:\Users\ZAYNAB\OneDrive\Desktop\MGQS\30DaysChallenge\Day24\obj\Debug\net10.0\Day24.genruntimeconfig.cache
+C:\Users\ZAYNAB\OneDrive\Desktop\MGQS\30DaysChallenge\Day24\obj\Debug\net10.0\ref\Day24.dll
